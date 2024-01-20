@@ -9,3 +9,4 @@ matplotlib
 seaborn
 uvicorn
 python-multipart
+pydentic
